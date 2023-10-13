@@ -1,6 +1,6 @@
 //your JS code here. If required.
 
-	const element = document.getElementById("colorSelect");
+const element = document.getElementById("colorSelect");
 
 
 const input = document.getElementsByTagName("input")[0];
